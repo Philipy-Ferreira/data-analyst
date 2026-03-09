@@ -15,7 +15,6 @@ showcasing my passion for **turning complex data into meaningful stories** that 
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-- [Skills](#skills)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
@@ -108,7 +107,7 @@ Shows strong growth in revenue and orders driven by new customers and popular pr
 
 ---
 
-## Tools & Technologies
+## Tools
 
 - **SQL**
 - **R**
