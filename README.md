@@ -4,10 +4,9 @@
 ## About
 
 
-I’m **Philipy Ferreira** a **data enthusiast** and **data analyst** with experience at **AIRBUS** as a **PMO**, 
-specializing in **reporting** and **dashboard visualization**. <br>
-I use mainly **SQL**, **Power Query**, **Python**, **Power BI**, and **Looker** to **analyze data** and **uncover actionable insights**.<br>
-Here, you’ll find my **projects**, **analyses**, and **portfolio pieces**—complete with **code**, **reports**, and **explanations** <br>
+I’m **Philipy Ferreira** a **data analyst** with extesnive experience with **MARKETING** from intern to **MANAGER**.<br>
+Here, you’ll find my **portfolio pieces**, complete with **code**, **reports** and **explanations** <br>
+I mainly use **Excel**, **SQL**, **R** and **Tableau** to clean, organize, **analyze data** and **uncover actionable insights**.<br>
 showcasing my passion for **turning complex data into meaningful stories** that **inform decisions** and **drive real impact**.
 
 ---
