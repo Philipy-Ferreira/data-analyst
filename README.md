@@ -5,9 +5,9 @@
 
 
 I’m **Philipy Ferreira** a **data analyst** with extensive and hands-on experience in **MARKETING**.<br>
-Here, you’ll find my **portfolio pieces**, complete with **code**, **reports** and **explanations** <br>
+Here, you’ll find my **portfolio pieces**, complete with **code**, **reports** and **explanations**. <br>
 I mainly use **Excel**, **SQL**, **R** and **Tableau** to clean, organize, **analyze data** and **uncover actionable insights**.<br>
-I love **turning complex data into meaningful stories** that **inform decisions** and **drive real impact** in **Markting**, **Economics** and all the **Business** in-between.
+I work to **turn complex data into meaningful stories** that **inform impactful decisions** in **Markting**, **Economics** and all the **Business** in-between.
 
 ---
 
@@ -23,24 +23,25 @@ I love **turning complex data into meaningful stories** that **inform decisions*
 ## Portfolio Projects
 Here is a brief overview of my projects. Click on the links to see the full project details.
 
-### Cityspot
+### Olist
 
-**Overview:**  
-CitySpot is a data-driven project designed to help individuals choose the best city to live in based on their lifestyle and priorities. By aggregating global data on cost of living, safety, healthcare, climate, and inclusivity, CitySpot transforms raw information into actionable insights. Using Python for data cleaning and EDA, and Power BI for interactive visualization, the project enables users to easily compare cities and discover their ideal destination.
+**Overview:**
+Olist is a Brazilian retail technology company that provides an ecosystem of solutions designed to help businesses manage and grow their sales operations. Olist supports more than 50,000 businesses across Brazil, providing digital infrastructure that enables entrepreneurs, retailers, distributors, and service providers to operate and scale their businesses across multiple sales channels. With a dataset of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil, I looked at: 
 
-**Goal:**  
-* Collect and structure socio-economic, cultural, and environmental data from reliable sources.  
-* Analyze and compare different destinations based on key criteria.  
-* Develop an interactive dashboard in Power BI for visualization and personalized recommendations.  
+**Main questions:**
+* How is the marketplace actually performing?
+* How efficiently are orders being fulfilled?
+* What determines customer satisfaction?
 
-**Tools / Skills Used:**  
-- Python (Google Colab): data cleaning, EDA (Matplotlib / Seaborn), modeling (K-Means, classification)  
-- Excel: initial data inspection, calculations, quality checks  
-- Power Query: advanced data transformation  
-- Power BI: interactive dashboard, key indicators visualization  
+**Main Insights:**
 
-**Result:**  
-CitySpot demonstrates that multi-source data can guide individuals in choosing cities that match their lifestyle. Analysis shows cost of living alone isn’t reliable; safety, healthcare, climate, and social inclusion are key. Regional patterns highlight Europe’s premium healthcare vs. Asia’s high quality of life at lower cost.  
+* To be written what was found
+
+**Tools / Skills Used:**
+- Python (Google Colab): data cleaning, EDA (Matplotlib / Seaborn), modeling (K-Means, classification)
+- Excel: initial data inspection, calculations, quality checks
+- Power Query: advanced data transformation
+- Power BI: interactive dashboard, key indicators visualization
 
 [See full project CitySpot](Projects/CitySpot/)
 
@@ -86,32 +87,12 @@ Analysis revealed that Netflix primarily focuses on movies (~70%) while maintain
 
 ---
 
-### Olist
-
-**Overview:**  
-Analyzed Olist’s 2016–2018 e-commerce data using PostgreSQL, Looker Studio, and Excel pivot tables to uncover trends in revenue, orders, payment methods, customer behavior, product categories, and seller performance.
-
-**Goal:**  
-Identify key trends in revenue, orders, customer behavior, product categories, and seller performance. Provide actionable recommendations for growth, retention, and platform optimization.
-
-**Tools / Skills Used:**  
-- PostgreSQL: data extraction and manipulation  
-- Excel pivot tables: detailed analysis  
-- Looker Studio: dashboards and visualizations  
-
-**Result:**  
-Shows strong growth in revenue and orders driven by new customers and popular product categories. Highlights seasonal trends, regional differences, low customer retention, and underperforming sellers. Insights help optimize marketing, product promotion, and seller support.  
-
-[See full project Olist](Projects/Olist/)
-
----
-
 ## Tools
 
 - **SQL**
 - **R**
-- **Excel & Power Query**
-- **BI & Visualization** Power BI, Tableau
+- **Excel**
+- **Tableau**
 
 ---
 
@@ -130,5 +111,5 @@ Shows strong growth in revenue and orders driven by new customers and popular pr
 ---
 
 ## Contact
-- **LinkedIn**: [(https://www.linkedin.com/in/philipyferreira/)]
+- **LinkedIn**: https://www.linkedin.com/in/philipyferreira/
 - **Email**: philipylferreira@gmail.com
